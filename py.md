@@ -41,3 +41,7 @@
 - [ ] Testing
 - [ ] Packages
 - [ ] Cython
+
+## Other
+
+- [ ] Type hinting
